@@ -1,7 +1,7 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/thspanhol/d9ca6c8e53f2e7fbc68c36f0cf920e82/raw/fd04071055162ac407ba998860c4875e74eed7f7/githubcard.svg"/>
-<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Thales Spanhol</h1>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/thspanhol/teste-page/main/public/chargit.png"/>
+<h1 align="left">Oi 👋🏻, Eu sou o Thales Spanhol</h1>
 
-- 👨‍🎓 Desenvolvedor Front-end formado pela [Trybe](https://github.com/betrybe).
+- 👨‍🎓 Desenvolvedor Front-End formado pela [Trybe](https://github.com/betrybe).
 
 - 🔭 Atualmente trabalho desenvolvendo sites para empresas e profissionais liberais.
 
