@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/thspanhol/teste-page/main/public/chargit.png"/>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/thspanhol/teste-page/main/public/chargit.png"/>
 <h1 align="left">Oi 👋🏻, Eu sou o Thales Spanhol</h1>
 
 - 👨‍🎓 Desenvolvedor Front-End formado pela [Trybe](https://github.com/betrybe).
