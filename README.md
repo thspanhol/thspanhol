@@ -3,9 +3,10 @@
 
 - 👨‍🎓 Desenvolvedor Front-End formado pela [Trybe](https://github.com/betrybe).
 
-- 🔭 Atualmente trabalho desenvolvendo sites para empresas e profissionais liberais.
+- 🔭 Atualmente trabalho desenvolvendo sites para profissionais e empresas.
 
-- 👨‍💻 Você pode conferir meu portfólio clicando [aqui](https://thspanhol.github.io/).
+<!-- - 👨‍💻 Você pode conferir meu portfólio clicando [aqui](https://thspanhol.github.io/). -->
+- 👨‍💻 Você pode conferir todos meus repositórios clicando [aqui](https://github.com/thspanhol?tab=repositories).
 
 - ⚖️ Bacharel em Direito infiltrado na área de tecnologia.
 
