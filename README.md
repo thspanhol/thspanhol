@@ -26,6 +26,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![React Testing Library](https://img.shields.io/badge/-RTL-05122A?style=flat&logo=testinglibrary)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=node.js)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)&nbsp;
 
 
