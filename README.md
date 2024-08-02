@@ -1,7 +1,9 @@
 <div>
 <img align="right" src="https://raw.githubusercontent.com/thspanhol/teste-page/main/public/chargit.png" width="500"/>
 <div>
-<h1 align="left">Oi 👋🏻, Eu sou o Thales Spanhol</h1>
+<br>
+  
+### Oi, Eu sou o Thales Spanhol 👋🏻
 
 - 👨‍🎓 Desenvolvedor Front-End formado pela [Trybe](https://github.com/betrybe).
 
@@ -11,7 +13,7 @@
 
 - ⚖️ Bacharel em Direito infiltrado na área de tecnologia.
 
-## 🛠 &nbsp;Minhas Ferramentas
+### 🛠 &nbsp;Minhas Ferramentas
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
