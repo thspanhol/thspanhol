@@ -1,16 +1,15 @@
-<img align="right" weight="500em" height="500em" src="https://raw.githubusercontent.com/thspanhol/teste-page/main/public/chargit.png"/>
+<div>
+<img align="right" src="https://raw.githubusercontent.com/thspanhol/teste-page/main/public/chargit.png" width="500"/>
+<div>
 <h1 align="left">Oi 👋🏻, Eu sou o Thales Spanhol</h1>
 
 - 👨‍🎓 Desenvolvedor Front-End formado pela [Trybe](https://github.com/betrybe).
 
 - 🔭 Atualmente trabalho desenvolvendo sites para profissionais e empresas.
 
-<!-- - 👨‍💻 Você pode conferir meu portfólio clicando [aqui](https://thspanhol.github.io/). -->
 - 👨‍💻 Você pode conferir todos meus repositórios clicando [aqui](https://github.com/thspanhol?tab=repositories).
 
 - ⚖️ Bacharel em Direito infiltrado na área de tecnologia.
-
-<br><br>
 
 ## 🛠 &nbsp;Minhas Ferramentas
 
@@ -32,12 +31,5 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)&nbsp;
-
-
-<!--
-<p align="left">
-teste commit
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=thspanhol&show_icons=true&theme=vision-friendly-dark" alt="thspanhol stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thspanhol&layout=compact&theme=vision-friendly-dark" alt="thspanhol most languages"/>
-</p>
--->
+</div>
+</div>
